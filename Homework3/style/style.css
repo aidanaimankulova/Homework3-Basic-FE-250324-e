@@ -1,0 +1,16 @@
+h1{
+    font-size: 25px;
+}
+
+.table1{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.table1 th, .table1 td{
+    border: 1px solid black;
+}
+
+.table1 img{
+    width: 50px;
+}
